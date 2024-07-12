@@ -1,0 +1,9 @@
+.idea
+/log/
+/target/
+/build/
+workspace.xml
+
+# Compiled class file
+*.class
+/.idea/
